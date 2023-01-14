@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    background-color:rgb(31, 70, 70);
+    background-size: cover;
+    position:relative;
+    flex-wrap: wrap;
+}
+
+body{
+ background: rgb(27,27,27);
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.card{
+  background: rgb(188, 228, 240);
+  width: 220px;
+  height: 550px;
+  margin: 10px
+}
+
+.card:hover{
+  background-color:rgb(134, 134, 132);
+  color: rgb(51, 50, 50);
+  cursor: pointer;
+  transform: scale(1.03);
+  transition:all is ease;
+}
+
+.card-image{
+  height: 150px;
+  margin: 15px;
+  background-size: cover;
+  border-radius: 15px;
+}
+.car1{
+  background-image:url('./Images/p_1.jpg');
+}
+
+.car2{
+  background-image:url('./Images/p_2.jfif');
+}
+
+.car3{
+  background-image:url('./Images/p_3.jfif');
+}
+
+.car4{
+  background-image:url('./Images/p_4.jfif');
+}
+
+.car5{
+  background-image:url('./Images/p_5.jfif');
+}
+
+h2{
+  font-family:'Segoe UI' ;  
+  font-size:2.3rem;
+  color: rgba(0, 0, 0, 0.979);
+  text-align:center;
+  padding-bottom: 25px;
+}
+
+h1{
+  font-family:'Segoe UI' ;  
+  font-size:2.3rem;
+  color: rgba(235, 229, 229, 0.979);
+  text-align:center;
+  padding-bottom: 25px;
+}
+
+p{
+  font-family:cursive;
+  font-size:18px;
+  text-align:center;
+  color:rgba(15, 4, 77, 0.514);
+  padding-bottom: 25px;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
