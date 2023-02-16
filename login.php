@@ -21,7 +21,7 @@
         <h3>Welcome to the Log In Page</h3>
         <a href="loginform.php" class="sbtn">User Log In </a>
         <br>
-        <p>Log In for Customers</p>
+        <p>Log In for Customers only</p>
         <br>
         <br>
         <a href="adminloginform.php" class="sbtn">Admin Log In</a>
