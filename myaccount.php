@@ -7,6 +7,7 @@
     <title>My Account</title>
 </head>
 <body>
+ <p>My account</p>
     
 </body>
 </html>
