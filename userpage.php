@@ -13,7 +13,7 @@
 <div class="container">
 
     <div class="content">
-        <h3>Welcome to the User Page</h3>
+        <h3>Welcome to the User Page. Hello</h3>
         <a href="user.php" class="sbtn">Let's get started!</a>
         <a href="loginform.php" class="btn">Log Out</a>
 
