@@ -45,7 +45,7 @@ if(isset($_POST['submit'])){
 <body>
 <?php @include './wedding_planing/firstheading.php'; ?>
     <div class="form-container">
-        
+        // please register here
         <form action="" method="post">
             <h3>Register Me</h3>
 
