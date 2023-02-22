@@ -41,7 +41,7 @@ if(isset($_POST['submit'])){
         
         <form action="" method="post">
             <h3>Admin Log In</h3>
-
+            //admin login
             <?php
 
 if(isset($error)){
